@@ -1,0 +1,18 @@
+{
+    "id": "gist006-music",
+    "name": "homic音乐播放器(可预览)",
+    "version": "2.2",
+    "description": "基于uniapp+colorUI 开发的音乐播放器，后台采用网易云node版本，可打包多平台，有兴趣可以看看，或者预览看看",
+    "keywords": [
+        "音乐",
+        "模板",
+        "播放器",
+        "小程序"
+    ],
+    "dcloudext": {
+        "category": [
+            "uni-app前端模板",
+            "uni-app前端项目模板"
+        ]
+    }
+}
