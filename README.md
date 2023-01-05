@@ -41,19 +41,19 @@ https://www.bilibili.com/video/BV17A4y1o7YY/
 
 ##### 管理员端截图
 
-| <img src="img/admin_1.png" style="zoom:33%;" /> | <img src="img/admin_2.png" style="zoom:33%;" /> |
-| ----------------------------------------------- | ----------------------------------------------- |
-| <img src="img/admin_3.png" style="zoom:33%;" /> | <img src="img/admin_4.png" style="zoom:33%;" /> |
-| <img src="img/admin_5.png" style="zoom:33%;" /> | <img src="img/admin_6.png" style="zoom:33%;" /> |
+| [![pSkgXh4.png](https://s1.ax1x.com/2023/01/05/pSkgXh4.png)](https://imgse.com/i/pSkgXh4) | [![pSkgv9J.png](https://s1.ax1x.com/2023/01/05/pSkgv9J.png)](https://imgse.com/i/pSkgv9J) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![pSkgzcR.png](https://s1.ax1x.com/2023/01/05/pSkgzcR.png)](https://imgse.com/i/pSkgzcR) | [![pSkgx39.png](https://s1.ax1x.com/2023/01/05/pSkgx39.png)](https://imgse.com/i/pSkgx39) |
+| [![pSkgONF.png](https://s1.ax1x.com/2023/01/05/pSkgONF.png)](https://imgse.com/i/pSkgONF) | [![pSk2Sj1.png](https://s1.ax1x.com/2023/01/05/pSk2Sj1.png)](https://imgse.com/i/pSk2Sj1) |
 
 
 
 ##### 小程序端截图
 
-| <img src="img/web_1.png" style="zoom:33%;" /> | <img src="img/web_2.png" style="zoom:33%;" /> |
-| --------------------------------------------- | --------------------------------------------- |
-| <img src="img/web_3.png" style="zoom:33%;" /> | <img src="img/web_4.png" style="zoom:33%;" /> |
-| <img src="img/web_5.png" style="zoom:33%;" /> | <img src="img/web_6.png" style="zoom:33%;" /> |
+| [![pSk2CB6.png](https://s1.ax1x.com/2023/01/05/pSk2CB6.png)](https://imgse.com/i/pSk2CB6) | [![pSk29nx.png](https://s1.ax1x.com/2023/01/05/pSk29nx.png)](https://imgse.com/i/pSk29nx) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![pSk2FAO.png](https://s1.ax1x.com/2023/01/05/pSk2FAO.png)](https://imgse.com/i/pSk2FAO) | [![pSk2PHK.png](https://s1.ax1x.com/2023/01/05/pSk2PHK.png)](https://imgse.com/i/pSk2PHK) |
+| [![pSk2kND.png](https://s1.ax1x.com/2023/01/05/pSk2kND.png)](https://imgse.com/i/pSk2kND) | [![pSk2A4e.png](https://s1.ax1x.com/2023/01/05/pSk2A4e.png)](https://imgse.com/i/pSk2A4e) |
 
 
 
