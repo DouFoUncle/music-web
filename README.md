@@ -1,4 +1,4 @@
-# 基于SpringBoot的音乐试听小程序
+基于SpringBoot的音乐试听小程序
 
 #### 介绍
 ```
@@ -50,10 +50,10 @@ https://www.bilibili.com/video/BV17A4y1o7YY/
 
 ##### 小程序端截图
 
-| [![](https://s1.ax1x.com/2023/01/05/pSk2CB6.png)]() | [![](https://s1.ax1x.com/2023/01/05/pSk29nx.png)]() |
-| --------------------------------------------------- | --------------------------------------------------- |
-| [![](https://s1.ax1x.com/2023/01/05/pSk2FAO.png)]() | [![](https://s1.ax1x.com/2023/01/05/pSk2PHK.png)]() |
-| [![](https://s1.ax1x.com/2023/01/05/pSk2kND.png)]() | [![](https://s1.ax1x.com/2023/01/05/pSk2A4e.png)]() |
+| ![](https://s1.ax1x.com/2023/01/05/pSk2CB6.png) | ![](https://s1.ax1x.com/2023/01/05/pSk29nx.png) |
+| ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://s1.ax1x.com/2023/01/05/pSk2FAO.png) | ![](https://s1.ax1x.com/2023/01/05/pSk2PHK.png) |
+| ![](https://s1.ax1x.com/2023/01/05/pSk2kND.png) | ![](https://s1.ax1x.com/2023/01/05/pSk2A4e.png) |
 
 
 
