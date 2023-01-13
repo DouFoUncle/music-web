@@ -41,10 +41,10 @@ https://www.bilibili.com/video/BV17A4y1o7YY/
 
 ##### 管理员端截图
 
-| [![](https://s1.ax1x.com/2023/01/05/pSkgXh4.png)]() | [![](https://s1.ax1x.com/2023/01/05/pSkgv9J.png)]() |
-| --------------------------------------------------- | --------------------------------------------------- |
-| [![](https://s1.ax1x.com/2023/01/05/pSkgzcR.png)]() | [![](https://s1.ax1x.com/2023/01/05/pSkgx39.png)]() |
-| [![](https://s1.ax1x.com/2023/01/05/pSkgONF.png)]() | [![](https://s1.ax1x.com/2023/01/05/pSk2Sj1.png)]() |
+| ![](https://s1.ax1x.com/2023/01/05/pSkgXh4.png) | ![](https://s1.ax1x.com/2023/01/05/pSkgv9J.png) |
+| ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://s1.ax1x.com/2023/01/05/pSkgzcR.png) | ![](https://s1.ax1x.com/2023/01/05/pSkgx39.png) |
+| ![](https://s1.ax1x.com/2023/01/05/pSkgONF.png) | ![](https://s1.ax1x.com/2023/01/05/pSk2Sj1.png) |
 
 
 
